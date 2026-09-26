@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Vijay
 
-<!--
-**vijay0664kumar/vijay0664kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web3 & Blockchain Developer
 
-Here are some ideas to get you started:
+I'm focused on learning and building in Web3, with an interest in blockchain infrastructure, smart contracts, and decentralized applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔹 Building and experimenting with blockchain applications
+- 🔹 Exploring smart contract development and onchain systems
+- 🔹 Learning through hands-on projects and open-source development
+- 🔹 Interested in Web3 infrastructure and emerging technologies
+
+## Technical Skills
+
+**Languages:**  
+JavaScript • TypeScript • Python • Solidity
+
+**Technologies:**  
+React • Vite • Git • GitHub • Linux
+
+## Current Focus
+
+Building practical projects, improving my development skills, and contributing to the open-source Web3 ecosystem.
+
+## Philosophy
+
+> Learn by building. Improve by shipping. 🚀
